@@ -1,0 +1,5 @@
+ 20221224-125140,[command] python D:/FuxiCTR-main/gafm_movielens.py,[exp_id] gafm_movielens_x4,[dataset_id] movielens_x4,[train] N.A.,[val] logloss: 0.590839 - AUC: 0.820776,[test] logloss: 0.590839 - AUC: 0.820776
+ 20221230-191117,[command] python D:/FuxiCTR-main/gafm_movielens.py,[exp_id] gafm_movielens_x4,[dataset_id] movielens_x4,[train] N.A.,[val] logloss: 0.616154 - AUC: 0.815392,[test] logloss: 0.616154 - AUC: 0.815392
+ 20221230-191822,[command] python D:/FuxiCTR-main/gafm_movielens.py,[exp_id] gafm_movielens_x4,[dataset_id] movielens_x4,[train] N.A.,[val] logloss: 0.616154 - AUC: 0.815392,[test] logloss: 0.616154 - AUC: 0.815392
+ 20221231-195216,[command] python D:/FuxiCTR-main/gafm_movielens.py,[exp_id] gafm_movielens_x4,[dataset_id] movielens_x4,[train] N.A.,[val] logloss: 0.317430 - AUC: 0.856154,[test] logloss: 0.317429 - AUC: 0.856156
+ 20221231-210755,[command] python D:/FuxiCTR-main/gafm_movielens.py,[exp_id] gafm_movielens_x4,[dataset_id] movielens_x4,[train] N.A.,[val] logloss: 0.318928 - AUC: 0.855713,[test] logloss: 0.318928 - AUC: 0.855712

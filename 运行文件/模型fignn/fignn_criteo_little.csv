@@ -1,0 +1,1 @@
+ 20221208-221730,[command] python /home/zjw/FuxiCTR-main/fignn_criteo_little.py,[exp_id] fignn_criteo_little,[dataset_id] criteo_little,[train] N.A.,[val] logloss: 0.468160 - AUC: 0.782052,[test] logloss: 0.468160 - AUC: 0.782052

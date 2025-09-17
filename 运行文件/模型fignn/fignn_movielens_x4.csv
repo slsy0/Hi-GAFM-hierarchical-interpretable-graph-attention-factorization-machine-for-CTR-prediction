@@ -1,0 +1,1 @@
+ 20221208-224124,[command] python /home/zjw/FuxiCTR-main/fignn_movielens.py,[exp_id] fignn_movielens_x4,[dataset_id] movielens_x4,[train] N.A.,[val] logloss: 0.317764 - AUC: 0.855012,[test] logloss: 0.317764 - AUC: 0.855012

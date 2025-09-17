@@ -1,0 +1,2 @@
+ 20221227-210055,[command] python D:/FuxiCTR-main/fm_mlp_criteo_little.py,[exp_id] fm_mlp_criteo_little,[dataset_id] criteo_little,[train] N.A.,[val] logloss: 0.425260 - AUC: 0.988952,[test] logloss: 0.425266 - AUC: 0.988899
+ 20221228-093758,[command] python D:/FuxiCTR-main/fm_mlp_criteo_little.py,[exp_id] fm_mlp_criteo_little,[dataset_id] criteo_little,[train] N.A.,[val] logloss: 0.406332 - AUC: 0.997832,[test] logloss: 0.406411 - AUC: 0.997797

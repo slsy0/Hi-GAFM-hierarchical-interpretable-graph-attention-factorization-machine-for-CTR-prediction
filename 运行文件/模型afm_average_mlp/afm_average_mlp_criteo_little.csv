@@ -1,0 +1,4 @@
+ 20221228-010236,[command] python D:/FuxiCTR-main/afm_mlp_average_criteo_little.py,[exp_id] afm_average_mlp_criteo_little,[dataset_id] criteo_little,[train] N.A.,[val] logloss: 0.535377 - AUC: 0.890076,[test] logloss: 0.535426 - AUC: 0.890078
+ 20221228-102057,[command] python D:/FuxiCTR-main/afm_average_mlp_criteo_little.py,[exp_id] afm_average_mlp_criteo_little,[dataset_id] criteo_little,[train] N.A.,[val] logloss: 0.556985 - AUC: 0.855942,[test] logloss: 0.556975 - AUC: 0.855949
+ 20221228-110443,[command] python D:/FuxiCTR-main/afm_average_mlp_criteo_little.py,[exp_id] afm_average_mlp_criteo_little,[dataset_id] criteo_little,[train] N.A.,[val] logloss: 0.556985 - AUC: 0.855942,[test] logloss: 0.556975 - AUC: 0.855949
+ 20221228-143522,[command] python D:/FuxiCTR-main/afm_average_mlp_criteo_little.py,[exp_id] afm_average_mlp_criteo_little,[dataset_id] criteo_little,[train] N.A.,[val] logloss: 0.556430 - AUC: 0.878832,[test] logloss: 0.556454 - AUC: 0.878807

@@ -1,0 +1,1 @@
+ 20221206-021732,[command] python /home/zjw/FuxiCTR-main/gafm2_criteo.py,[exp_id] gafm2_criteo_x4,[dataset_id] criteo_x4,[train] N.A.,[val] logloss: 0.572770 - AUC: 0.801621,[test] logloss: 0.572678 - AUC: 0.801967

@@ -1,0 +1,1 @@
+ 20221108-232715,[command] python /home/zjw/FuxiCTR-main/fignn_criteo.py --gpu 0,[exp_id] fignn_criteo_x4,[dataset_id] criteo_x4,[train] N.A.,[val] logloss: 0.442735 - AUC: 0.809093,[test] logloss: 0.442244 - AUC: 0.809619

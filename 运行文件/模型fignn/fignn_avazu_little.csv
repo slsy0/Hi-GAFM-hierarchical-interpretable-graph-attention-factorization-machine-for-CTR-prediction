@@ -1,0 +1,1 @@
+ 20221208-222325,[command] python /home/zjw/FuxiCTR-main/fignn_avazu_little.py,[exp_id] fignn_avazu_little,[dataset_id] avazu_little,[train] N.A.,[val] logloss: 0.400433 - AUC: 0.741126,[test] logloss: 0.400433 - AUC: 0.741126

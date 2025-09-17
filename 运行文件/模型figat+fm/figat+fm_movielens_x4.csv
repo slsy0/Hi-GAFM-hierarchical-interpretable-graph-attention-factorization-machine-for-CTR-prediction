@@ -1,0 +1,5 @@
+ 20221230-164226,[command] python D:/FuxiCTR-main/figat+fm_movielens_x4.py,[exp_id] figat+fm_movielens_x4,[dataset_id] movielens_x4,[train] N.A.,[val] logloss: 0.521111 - AUC: 0.818289,[test] logloss: 0.521006 - AUC: 0.818342
+ 20221230-190232,[command] python D:/FuxiCTR-main/figat+fm_movielens_x4.py,[exp_id] figat+fm_movielens_x4,[dataset_id] movielens_x4,[train] N.A.,[val] logloss: 0.444026 - AUC: 0.818967,[test] logloss: 0.444035 - AUC: 0.818918
+ 20221231-174743,[command] python D:/FuxiCTR-main/figat+fm_movielens_x4.py,[exp_id] figat+fm_movielens_x4,[dataset_id] movielens_x4,[train] N.A.,[val] logloss: 0.592511 - AUC: 0.846048,[test] logloss: 0.592537 - AUC: 0.846008
+ 20221231-184003,[command] python D:/FuxiCTR-main/figat+fm_movielens_x4.py,[exp_id] figat+fm_movielens_x4,[dataset_id] movielens_x4,[train] N.A.,[val] logloss: 0.317133 - AUC: 0.855658,[test] logloss: 0.317118 - AUC: 0.855675
+ 20221231-191945,[command] python D:/FuxiCTR-main/figat+fm_movielens_x4.py,[exp_id] figat+fm_movielens_x4,[dataset_id] movielens_x4,[train] N.A.,[val] logloss: 0.318202 - AUC: 0.854129,[test] logloss: 0.318188 - AUC: 0.854132

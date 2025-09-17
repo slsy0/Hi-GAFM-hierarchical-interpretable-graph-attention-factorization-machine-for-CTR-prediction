@@ -1,0 +1,4 @@
+ 20221210-232350,[command] python D:/FuxiCTR-main/gafm2_criteo_little.py,[exp_id] gafm2_criteo_little,[dataset_id] criteo_little,[train] N.A.,[val] logloss: 0.555081 - AUC: 0.829306,[test] logloss: 0.555082 - AUC: 0.829306
+ 20221213-195521,[command] python D:/FuxiCTR-main/gafm2_criteo_little.py,[exp_id] gafm2_criteo_little,[dataset_id] criteo_little,[train] N.A.,[val] logloss: 0.692790 - AUC: 0.503395,[test] logloss: 0.692790 - AUC: 0.503395
+ 20221213-202904,[command] python D:/FuxiCTR-main/gafm2_criteo_little.py,[exp_id] gafm2_criteo_little,[dataset_id] criteo_little,[train] N.A.,[val] logloss: 0.541230 - AUC: 0.828239,[test] logloss: 0.541230 - AUC: 0.828239
+ 20221214-105312,[command] python D:/FuxiCTR-main/gafm2_criteo_little.py,[exp_id] gafm2_criteo_little,[dataset_id] criteo_little,[train] N.A.,[val] logloss: 0.564388 - AUC: 0.830948,[test] logloss: 0.564388 - AUC: 0.830948

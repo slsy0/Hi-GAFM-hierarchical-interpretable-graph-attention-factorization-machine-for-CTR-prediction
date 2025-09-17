@@ -1,0 +1,62 @@
+gafm4_movielens_x4_001_ee93e602:
+    batch_size: 512
+    dataset_id: movielens_x4_d7d029e8
+    debug: false
+    embedding_dim: 40
+    embedding_regularizer: 0
+    epochs: 30
+    every_x_epochs: 1
+    gat_layers: 3
+    learning_rate: 0.001
+    loss: binary_crossentropy
+    metrics: [logloss, AUC]
+    model: GAFM4
+    model_id: gafm4_movielens_x4
+    model_root: ./checkpoints/
+    monitor: {AUC: 1, logloss: -1}
+    monitor_mode: max
+    net_regularizer: 0
+    optimizer: adam
+    patience: 2
+    pickle_feature_encoder: true
+    reuse_graph_layer: false
+    save_best_only: true
+    seed: 2019
+    shuffle: true
+    task: binary_classification
+    use_gru: true
+    use_hdf5: true
+    use_residual: true
+    verbose: 1
+    workers: 8
+gafm4_movielens_x4_002_9b5cf5b6:
+    batch_size: 512
+    dataset_id: movielens_x4_d7d029e8
+    debug: false
+    embedding_dim: 16
+    embedding_regularizer: 0
+    epochs: 30
+    every_x_epochs: 1
+    gat_layers: 3
+    learning_rate: 0.001
+    loss: binary_crossentropy
+    metrics: [logloss, AUC]
+    model: GAFM4
+    model_id: gafm4_movielens_x4
+    model_root: ./checkpoints/
+    monitor: {AUC: 1, logloss: -1}
+    monitor_mode: max
+    net_regularizer: 0
+    optimizer: adam
+    patience: 2
+    pickle_feature_encoder: true
+    reuse_graph_layer: false
+    save_best_only: true
+    seed: 2019
+    shuffle: true
+    task: binary_classification
+    use_gru: true
+    use_hdf5: true
+    use_residual: true
+    verbose: 1
+    workers: 8

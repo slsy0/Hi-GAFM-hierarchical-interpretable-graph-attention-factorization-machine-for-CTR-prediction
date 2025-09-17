@@ -1,0 +1,1 @@
+ 20230113-175015,[command] python D:/FuxiCTR-main/gafm4_movielens_x4.py,[exp_id] gafm4_movielens_x4,[dataset_id] movielens_x4,[train] N.A.,[val] logloss: 0.317378 - AUC: 0.856919,[test] logloss: 0.317378 - AUC: 0.856918

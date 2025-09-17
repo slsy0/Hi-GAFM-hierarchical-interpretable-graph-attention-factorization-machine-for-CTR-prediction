@@ -1,0 +1,27 @@
+base_config: ../config/gafm4_movielens_x4/
+base_expid: gafm4_movielens_x4
+dataset_id: movielens_x4
+dataset_config:
+    movielens_x4:
+        data_format: csv
+        data_root: '../data/movielens'
+        train_data: ../data/movielens_x4/train.csv
+        valid_data: ../data/movielens_x4/valid.csv
+        test_data: ../data/movielens_x4/test.csv
+        feature_cols:
+        - {name: ["userid","gender","age","occupation","movieid","year"],
+           active: True, dtype: float, type: categorical, na_value: 0}
+        - {name: ["Action","Adventure","Animation","Children's","Comedy","Crime","Documentary","Drama","Fantasy",
+            "Film-Noir","Horror","Musical","Mystery","Romance","Sci-Fi","Thriller","War","Western"],
+           active: True, dtype: float, type: categorical, na_value: 0}
+        label_col: {name: label, dtype: float}
+
+tuner_space:
+    embedding_dim: [40, 16]
+    learning_rate: 1.e-3
+    # dnn_hidden_units: [[500,500,500,500,500],[1000,1000,1000,1000,1000]]
+    # cin_layer_units: [[64, 64, 64], [64, 64]]
+    # net_dropout: 0.2
+    # embedding_regularizer: [1.e-4, 1.e-3]
+    batch_size: 512 # [1000, 512]
+    seed: 2019

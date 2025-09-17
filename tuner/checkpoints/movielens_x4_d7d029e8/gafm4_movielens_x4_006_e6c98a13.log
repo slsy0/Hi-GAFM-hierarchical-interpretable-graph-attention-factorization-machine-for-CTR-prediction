@@ -1,0 +1,52 @@
+2023-01-16 16:09:11,872 P1052 INFO {
+    "batch_size": "1000",
+    "data_format": "csv",
+    "data_root": "../data/movielens",
+    "dataset_id": "movielens_x4_d7d029e8",
+    "debug": "False",
+    "embedding_dim": "16",
+    "embedding_regularizer": "0.001",
+    "epochs": "30",
+    "every_x_epochs": "1",
+    "feature_cols": "[{'active': True, 'dtype': 'float', 'na_value': 0, 'name': ['userid', 'gender', 'age', 'occupation', 'movieid', 'year'], 'type': 'categorical'}, {'active': True, 'dtype': 'float', 'na_value': 0, 'name': ['Action', 'Adventure', 'Animation', \"Children's\", 'Comedy', 'Crime', 'Documentary', 'Drama', 'Fantasy', 'Film-Noir', 'Horror', 'Musical', 'Mystery', 'Romance', 'Sci-Fi', 'Thriller', 'War', 'Western'], 'type': 'categorical'}]",
+    "gat_layers": "3",
+    "gpu": "-1",
+    "label_col": "{'dtype': 'float', 'name': 'label'}",
+    "learning_rate": "0.001",
+    "loss": "binary_crossentropy",
+    "metrics": "['logloss', 'AUC']",
+    "model": "GAFM4",
+    "model_id": "gafm4_movielens_x4_006_e6c98a13",
+    "model_root": "./checkpoints/",
+    "monitor": "{'AUC': 1, 'logloss': -1}",
+    "monitor_mode": "max",
+    "net_regularizer": "0",
+    "optimizer": "adam",
+    "patience": "2",
+    "pickle_feature_encoder": "True",
+    "reuse_graph_layer": "False",
+    "save_best_only": "True",
+    "seed": "2019",
+    "shuffle": "True",
+    "task": "binary_classification",
+    "test_data": "../data/movielens_x4/test.csv",
+    "train_data": "../data/movielens_x4/train.csv",
+    "use_gru": "True",
+    "use_hdf5": "True",
+    "use_residual": "True",
+    "valid_data": "../data/movielens_x4/valid.csv",
+    "verbose": "1",
+    "version": "pytorch",
+    "workers": "8"
+}
+2023-01-16 16:09:11,873 P1052 INFO Set up feature encoder...
+2023-01-16 16:09:11,873 P1052 INFO Load feature_map from json: ../data/movielens\movielens_x4_d7d029e8\feature_map.json
+2023-01-16 16:09:11,873 P1052 INFO Loading data...
+2023-01-16 16:09:11,874 P1052 INFO Loading data from h5: ../data/movielens\movielens_x4_d7d029e8\train.h5
+2023-01-16 16:09:11,928 P1052 INFO Loading data from h5: ../data/movielens\movielens_x4_d7d029e8\valid.h5
+2023-01-16 16:09:11,935 P1052 INFO Train samples: total/900209, pos/752938, neg/147271, ratio/83.64%, blocks/1
+2023-01-16 16:09:11,935 P1052 INFO Validation samples: total/100000, pos/83540, neg/16460, ratio/83.54%, blocks/1
+2023-01-16 16:09:11,935 P1052 INFO Loading train data done.
+2023-01-16 16:09:13,994 P1052 INFO Total number of parameters: 116893440.
+2023-01-16 16:09:13,994 P1052 INFO Start training: 901 batches/epoch
+2023-01-16 16:09:13,994 P1052 INFO ************ Epoch=1 start ************

@@ -1,0 +1,5 @@
+ 20221120-200141,[command] python /home/zjw/FuxiCTR-main/figat+fm2_criteo.py,[exp_id] figat+fm2_criteo_x4,[dataset_id] criteo_x4,[train] N.A.,[val] logloss: 0.644551 - AUC: 0.799519,[test] logloss: 0.644220 - AUC: 0.799867
+ 20221120-232531,[command] python /home/zjw/FuxiCTR-main/figat+fm2_criteo.py,[exp_id] figat+fm2_criteo_x4,[dataset_id] criteo_x4,[train] N.A.,[val] logloss: 0.644551 - AUC: 0.799519,[test] logloss: 0.644220 - AUC: 0.799867
+ 20221121-193614,[command] python /home/zjw/FuxiCTR-main/figat+fm2_criteo.py,[exp_id] figat+fm2_criteo_x4,[dataset_id] criteo_x4,[train] N.A.,[val] logloss: 0.561944 - AUC: 0.801336,[test] logloss: 0.561925 - AUC: 0.801681
+ 20221123-201106,[command] python /home/zjw/FuxiCTR-main/figat+fm2_criteo.py,[exp_id] figat+fm2_criteo_x4,[dataset_id] criteo_x4,[train] N.A.,[val] logloss: 0.584032 - AUC: 0.802179,[test] logloss: 0.583944 - AUC: 0.802522
+ 20221125-173603,[command] python /home/zjw/FuxiCTR-main/figat+fm2_criteo.py,[exp_id] figat+fm2_criteo_x4,[dataset_id] criteo_x4,[train] N.A.,[val] logloss: 0.584716 - AUC: 0.802456,[test] logloss: 0.584625 - AUC: 0.802796

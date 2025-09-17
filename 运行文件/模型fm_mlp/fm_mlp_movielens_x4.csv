@@ -1,0 +1,2 @@
+ 20221230-104412,[command] python D:/FuxiCTR-main/fm_mlp_movielens_x4.py,[exp_id] fm_mlp_movielens_x4,[dataset_id] movielens_x4,[train] N.A.,[val] logloss: 0.595409 - AUC: 0.839601,[test] logloss: 0.595407 - AUC: 0.839589
+ 20221230-182136,[command] python D:/FuxiCTR-main/fm_mlp_movielens_x4.py,[exp_id] fm_mlp_movielens_x4,[dataset_id] movielens_x4,[train] N.A.,[val] logloss: 0.599612 - AUC: 0.839830,[test] logloss: 0.599623 - AUC: 0.839826

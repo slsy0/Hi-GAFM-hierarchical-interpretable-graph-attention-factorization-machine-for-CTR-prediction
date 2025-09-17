@@ -1,0 +1,33 @@
+Base: 
+    model_root: './checkpoints/'
+    workers: 8
+    verbose: 1
+    patience: 2
+    pickle_feature_encoder: True
+    use_hdf5: True
+    save_best_only: True
+    every_x_epochs: 1
+    debug: False
+
+
+gafm2_movielens_x4:
+    model: GAFM2
+    dataset_id: movielens_x4
+    loss: 'binary_crossentropy'
+    metrics: ['logloss', 'AUC']
+    task: binary_classification
+    optimizer: adam
+    learning_rate: 1.e-3
+    embedding_regularizer: 0
+    net_regularizer: 0
+    batch_size: 1000
+    embedding_dim: 40
+    gat_layers: 3
+    use_residual: True
+    use_gru: True
+    reuse_graph_layer: False
+    epochs: 30
+    shuffle: True
+    seed: 2019
+    monitor: {'AUC': 1, 'logloss': -1}
+    monitor_mode: 'max'

@@ -1,0 +1,2 @@
+ 20230109-195611,[command] python /root/autodl-tmp/FuxiCTR-main/gafmv2_criteo.py,[exp_id] gafmv2_criteo_x4,[dataset_id] criteo_x4,[train] N.A.,[val] logloss: 0.445772 - AUC: 0.805769,[test] logloss: 0.445404 - AUC: 0.806173
+ 20230110-113740,[command] python /root/autodl-tmp/FuxiCTR-main/gafmv2_criteo.py,[exp_id] gafmv2_criteo_x4,[dataset_id] criteo_x4,[train] N.A.,[val] logloss: 0.440494 - AUC: 0.811239,[test] logloss: 0.440059 - AUC: 0.811713

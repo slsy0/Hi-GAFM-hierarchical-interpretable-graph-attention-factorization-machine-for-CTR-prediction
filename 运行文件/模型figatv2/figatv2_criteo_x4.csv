@@ -1,0 +1,1 @@
+ 20230109-101302,[command] python /root/autodl-tmp/FuxiCTR-main/figatv2_criteo.py,[exp_id] figatv2_criteo_x4,[dataset_id] criteo_x4,[train] N.A.,[val] logloss: 0.445234 - AUC: 0.806647,[test] logloss: 0.444787 - AUC: 0.807180

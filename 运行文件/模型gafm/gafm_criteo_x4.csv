@@ -1,0 +1,4 @@
+ 20221204-195007,[command] python /home/zjw/FuxiCTR-main/gafm_criteo.py,[exp_id] gafm_criteo_x4,[dataset_id] criteo_x4,[train] N.A.,[val] logloss: 0.587732 - AUC: 0.801762,[test] logloss: 0.587613 - AUC: 0.802143
+ 20230106-013221,[command] python /root/autodl-tmp/FuxiCTR-main/gafm_criteo.py,[exp_id] gafm_criteo_x4,[dataset_id] criteo_x4,[train] N.A.,[val] logloss: 0.447039 - AUC: 0.804411,[test] logloss: 0.446662 - AUC: 0.804828
+ 20230106-072339,[command] python /root/autodl-tmp/FuxiCTR-main/gafm_criteo.py,[exp_id] gafm_criteo_x4,[dataset_id] criteo_x4,[train] N.A.,[val] logloss: 0.440997 - AUC: 0.810829,[test] logloss: 0.440534 - AUC: 0.811321
+ 20230107-043814,[command] python /root/autodl-tmp/FuxiCTR-main/gafm_criteo.py,[exp_id] gafm_criteo_x4,[dataset_id] criteo_x4,[train] N.A.,[val] logloss: 0.440535 - AUC: 0.811219,[test] logloss: 0.440052 - AUC: 0.811735

@@ -1,0 +1,1 @@
+ 20221230-155451,[command] python D:/FuxiCTR-main/figat_movielens_x4.py,[exp_id] figat_movielens_x4,[dataset_id] movielens_x4,[train] N.A.,[val] logloss: 0.319677 - AUC: 0.852590,[test] logloss: 0.319666 - AUC: 0.852602

@@ -1,0 +1,272 @@
+xDeepFM_criteo_x4_001_cb2c8715:
+    batch_norm: false
+    batch_size: 1000
+    cin_layer_units: [64, 64, 64]
+    dataset_id: criteo_x4_a0d2d469
+    debug: false
+    dnn_hidden_units: [500, 500, 500, 500, 500]
+    embedding_dim: 16
+    embedding_dropout: 0
+    embedding_regularizer: 0.0001
+    epochs: 30
+    every_x_epochs: 1
+    hidden_activations: relu
+    learning_rate: 0.001
+    loss: binary_crossentropy
+    metrics: [logloss, AUC]
+    model: xDeepFM
+    model_id: xDeepFM_criteo_x4
+    model_root: ./checkpoints/
+    monitor: {AUC: 1, logloss: -1}
+    monitor_mode: max
+    net_dropout: 0.2
+    net_regularizer: 0
+    optimizer: adam
+    patience: 2
+    pickle_feature_encoder: true
+    save_best_only: true
+    seed: 2019
+    shuffle: true
+    task: binary_classification
+    use_hdf5: true
+    verbose: 1
+    version: pytorch
+    workers: 8
+xDeepFM_criteo_x4_002_f0b50d4a:
+    batch_norm: false
+    batch_size: 1000
+    cin_layer_units: [64, 64]
+    dataset_id: criteo_x4_a0d2d469
+    debug: false
+    dnn_hidden_units: [500, 500, 500, 500, 500]
+    embedding_dim: 16
+    embedding_dropout: 0
+    embedding_regularizer: 0.0001
+    epochs: 30
+    every_x_epochs: 1
+    hidden_activations: relu
+    learning_rate: 0.001
+    loss: binary_crossentropy
+    metrics: [logloss, AUC]
+    model: xDeepFM
+    model_id: xDeepFM_criteo_x4
+    model_root: ./checkpoints/
+    monitor: {AUC: 1, logloss: -1}
+    monitor_mode: max
+    net_dropout: 0.2
+    net_regularizer: 0
+    optimizer: adam
+    patience: 2
+    pickle_feature_encoder: true
+    save_best_only: true
+    seed: 2019
+    shuffle: true
+    task: binary_classification
+    use_hdf5: true
+    verbose: 1
+    version: pytorch
+    workers: 8
+xDeepFM_criteo_x4_003_37736df8:
+    batch_norm: false
+    batch_size: 1000
+    cin_layer_units: [64, 64, 64]
+    dataset_id: criteo_x4_a0d2d469
+    debug: false
+    dnn_hidden_units: [1000, 1000, 1000, 1000, 1000]
+    embedding_dim: 16
+    embedding_dropout: 0
+    embedding_regularizer: 0.0001
+    epochs: 30
+    every_x_epochs: 1
+    hidden_activations: relu
+    learning_rate: 0.001
+    loss: binary_crossentropy
+    metrics: [logloss, AUC]
+    model: xDeepFM
+    model_id: xDeepFM_criteo_x4
+    model_root: ./checkpoints/
+    monitor: {AUC: 1, logloss: -1}
+    monitor_mode: max
+    net_dropout: 0.2
+    net_regularizer: 0
+    optimizer: adam
+    patience: 2
+    pickle_feature_encoder: true
+    save_best_only: true
+    seed: 2019
+    shuffle: true
+    task: binary_classification
+    use_hdf5: true
+    verbose: 1
+    version: pytorch
+    workers: 8
+xDeepFM_criteo_x4_004_7372aa8d:
+    batch_norm: false
+    batch_size: 1000
+    cin_layer_units: [64, 64]
+    dataset_id: criteo_x4_a0d2d469
+    debug: false
+    dnn_hidden_units: [1000, 1000, 1000, 1000, 1000]
+    embedding_dim: 16
+    embedding_dropout: 0
+    embedding_regularizer: 0.0001
+    epochs: 30
+    every_x_epochs: 1
+    hidden_activations: relu
+    learning_rate: 0.001
+    loss: binary_crossentropy
+    metrics: [logloss, AUC]
+    model: xDeepFM
+    model_id: xDeepFM_criteo_x4
+    model_root: ./checkpoints/
+    monitor: {AUC: 1, logloss: -1}
+    monitor_mode: max
+    net_dropout: 0.2
+    net_regularizer: 0
+    optimizer: adam
+    patience: 2
+    pickle_feature_encoder: true
+    save_best_only: true
+    seed: 2019
+    shuffle: true
+    task: binary_classification
+    use_hdf5: true
+    verbose: 1
+    version: pytorch
+    workers: 8
+xDeepFM_criteo_x4_005_3d5c8dcd:
+    batch_norm: false
+    batch_size: 1000
+    cin_layer_units: [64, 64, 64]
+    dataset_id: criteo_x4_a0d2d469
+    debug: false
+    dnn_hidden_units: [500, 500, 500, 500, 500]
+    embedding_dim: 16
+    embedding_dropout: 0
+    embedding_regularizer: 0.001
+    epochs: 30
+    every_x_epochs: 1
+    hidden_activations: relu
+    learning_rate: 0.001
+    loss: binary_crossentropy
+    metrics: [logloss, AUC]
+    model: xDeepFM
+    model_id: xDeepFM_criteo_x4
+    model_root: ./checkpoints/
+    monitor: {AUC: 1, logloss: -1}
+    monitor_mode: max
+    net_dropout: 0.2
+    net_regularizer: 0
+    optimizer: adam
+    patience: 2
+    pickle_feature_encoder: true
+    save_best_only: true
+    seed: 2019
+    shuffle: true
+    task: binary_classification
+    use_hdf5: true
+    verbose: 1
+    version: pytorch
+    workers: 8
+xDeepFM_criteo_x4_006_ef670222:
+    batch_norm: false
+    batch_size: 1000
+    cin_layer_units: [64, 64]
+    dataset_id: criteo_x4_a0d2d469
+    debug: false
+    dnn_hidden_units: [500, 500, 500, 500, 500]
+    embedding_dim: 16
+    embedding_dropout: 0
+    embedding_regularizer: 0.001
+    epochs: 30
+    every_x_epochs: 1
+    hidden_activations: relu
+    learning_rate: 0.001
+    loss: binary_crossentropy
+    metrics: [logloss, AUC]
+    model: xDeepFM
+    model_id: xDeepFM_criteo_x4
+    model_root: ./checkpoints/
+    monitor: {AUC: 1, logloss: -1}
+    monitor_mode: max
+    net_dropout: 0.2
+    net_regularizer: 0
+    optimizer: adam
+    patience: 2
+    pickle_feature_encoder: true
+    save_best_only: true
+    seed: 2019
+    shuffle: true
+    task: binary_classification
+    use_hdf5: true
+    verbose: 1
+    version: pytorch
+    workers: 8
+xDeepFM_criteo_x4_007_a728ed3e:
+    batch_norm: false
+    batch_size: 1000
+    cin_layer_units: [64, 64, 64]
+    dataset_id: criteo_x4_a0d2d469
+    debug: false
+    dnn_hidden_units: [1000, 1000, 1000, 1000, 1000]
+    embedding_dim: 16
+    embedding_dropout: 0
+    embedding_regularizer: 0.001
+    epochs: 30
+    every_x_epochs: 1
+    hidden_activations: relu
+    learning_rate: 0.001
+    loss: binary_crossentropy
+    metrics: [logloss, AUC]
+    model: xDeepFM
+    model_id: xDeepFM_criteo_x4
+    model_root: ./checkpoints/
+    monitor: {AUC: 1, logloss: -1}
+    monitor_mode: max
+    net_dropout: 0.2
+    net_regularizer: 0
+    optimizer: adam
+    patience: 2
+    pickle_feature_encoder: true
+    save_best_only: true
+    seed: 2019
+    shuffle: true
+    task: binary_classification
+    use_hdf5: true
+    verbose: 1
+    version: pytorch
+    workers: 8
+xDeepFM_criteo_x4_008_0fee29fc:
+    batch_norm: false
+    batch_size: 1000
+    cin_layer_units: [64, 64]
+    dataset_id: criteo_x4_a0d2d469
+    debug: false
+    dnn_hidden_units: [1000, 1000, 1000, 1000, 1000]
+    embedding_dim: 16
+    embedding_dropout: 0
+    embedding_regularizer: 0.001
+    epochs: 30
+    every_x_epochs: 1
+    hidden_activations: relu
+    learning_rate: 0.001
+    loss: binary_crossentropy
+    metrics: [logloss, AUC]
+    model: xDeepFM
+    model_id: xDeepFM_criteo_x4
+    model_root: ./checkpoints/
+    monitor: {AUC: 1, logloss: -1}
+    monitor_mode: max
+    net_dropout: 0.2
+    net_regularizer: 0
+    optimizer: adam
+    patience: 2
+    pickle_feature_encoder: true
+    save_best_only: true
+    seed: 2019
+    shuffle: true
+    task: binary_classification
+    use_hdf5: true
+    verbose: 1
+    version: pytorch
+    workers: 8

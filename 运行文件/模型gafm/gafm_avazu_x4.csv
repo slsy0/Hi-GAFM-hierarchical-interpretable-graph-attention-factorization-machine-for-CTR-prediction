@@ -1,0 +1,2 @@
+ 20230105-184946,[command] python /root/autodl-tmp/FuxiCTR-main/gafm_avazu.py,[exp_id] gafm_avazu_x4,[dataset_id] avazu_x4,[train] N.A.,[val] logloss: 0.377541 - AUC: 0.787758,[test] logloss: 0.377598 - AUC: 0.787781
+ 20230106-123053,[command] python /root/autodl-tmp/FuxiCTR-main/gafm_avazu.py,[exp_id] gafm_avazu_x4,[dataset_id] avazu_x4,[train] N.A.,[val] logloss: 0.372327 - AUC: 0.792684,[test] logloss: 0.372164 - AUC: 0.793054

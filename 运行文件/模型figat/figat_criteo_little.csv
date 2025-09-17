@@ -1,0 +1,1 @@
+ 20221205-100543,[command] python D:/FuxiCTR-main/figat_criteolittle.py,[exp_id] figat_criteo_little,[dataset_id] criteo_little,[train] N.A.,[val] logloss: 0.196137 - AUC: 0.973237,[test] logloss: 0.196061 - AUC: 0.973282
