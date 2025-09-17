@@ -1,0 +1,4 @@
+ 20230311-021906,[command] python /root/autodl-tmp/FuxiCTR-main/gafm4_kkbox.py,[exp_id] gafm4_kkbox_x1,[dataset_id] kkbox_x1,[train] N.A.,[val] logloss: 0.508860 - AUC: 0.829372,[test] logloss: 0.507835 - AUC: 0.830019
+ 20230311-024530,[command] python /root/autodl-tmp/FuxiCTR-main/gafm4_kkbox.py,[exp_id] gafm4_kkbox_x1,[dataset_id] kkbox_x1,[train] N.A.,[val] logloss: 0.505449 - AUC: 0.830589,[test] logloss: 0.505549 - AUC: 0.830677
+ 20240130-225247,[command] python D:/FuxiCTR-main/gafm4_kkbox.py,[exp_id] gafm4_kkbox_x1,[dataset_id] kkbox_x1,[train] N.A.,[val] logloss: 0.504599 - AUC: 0.830848,[test] logloss: 0.504363 - AUC: 0.831112
+ 20240131-112228,[command] python D:/FuxiCTR-main/gafm4_kkbox.py,[exp_id] gafm4_kkbox_x1,[dataset_id] kkbox_x1,[train] N.A.,[val] logloss: 0.504599 - AUC: 0.830848,[test] logloss: 0.504363 - AUC: 0.831112
